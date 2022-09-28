@@ -24,9 +24,8 @@ NVIDIA GPU + CUDA cuDNN
    2. [DAMSM for coco](https://drive.google.com/open?id=1zIrXCE9F6yfbEJIbNP5-YrEe2pZcPSGJ)
 
 3. Training 
-   * Modify the parameters in parse to your local directory
+   * Modify the parameters in parse to your local path
    * You can modify some parameters in the cfg file
-   * change the 
 
 ```python
 python /FF_GAN/code/main.py --cfg cfg/bird_DMGAN.yml --gpu 0
