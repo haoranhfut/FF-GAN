@@ -22,6 +22,7 @@ NVIDIA GPU + CUDA cuDNN
 2. **Pretrained Models**
    1. [DAMSM for bird](https://drive.google.com/open?id=1GNUKjVeyWYBJ8hEU-yrfYQpDOkxEyP3V).
    2. [DAMSM for coco](https://drive.google.com/open?id=1zIrXCE9F6yfbEJIbNP5-YrEe2pZcPSGJ)
+   3. the pretrained models of our FF-GAN which obtain the best performance in our paper.
 
 3. Training 
    * Modify the parameters in parse to your local path
@@ -31,6 +32,7 @@ NVIDIA GPU + CUDA cuDNN
 python /FF_GAN/code/main.py --cfg cfg/bird_DMGAN.yml --gpu 0
 python /FF_GAN/code/main.py --cfg cfg/coco_DMGAN.yml --gpu 0
 ```
+
 
 4. Validation
 
