@@ -1,6 +1,6 @@
 ## FF-GAN
 
-This repository is the official code for the paper "Fine-grained Cross-modal Fusion based Refinement for Text-to-Image Synthesis" by Haoran Sun, Yang Wang (corresponding author: [yangwang@hfut.edu.cn](mailto:yangwang@hfut.edu.cn)), Haipeng Liu, Biaoqian.
+This repository is the official code for the paper "Fine-grained Cross-modal Fusion based Refinement for Text-to-Image Synthesis" 
 
 ### Introduction
 
