@@ -21,8 +21,8 @@ NVIDIA GPU + CUDA cuDNN
    4. extract the source data to your path.
 
 2. **Pretrained Models**
-   1. [DAMSM for bird](https://drive.google.com/open?id=1GNUKjVeyWYBJ8hEU-yrfYQpDOkxEyP3V).
-   2. [DAMSM for coco](https://drive.google.com/open?id=1zIrXCE9F6yfbEJIbNP5-YrEe2pZcPSGJ)
+   1. [Bi-LSTM pretrained by Attn-GAN for bird](https://drive.google.com/open?id=1GNUKjVeyWYBJ8hEU-yrfYQpDOkxEyP3V).
+   2. [Bi-LSTM pretrained by Attn-GAN for coco](https://drive.google.com/open?id=1zIrXCE9F6yfbEJIbNP5-YrEe2pZcPSGJ)
    3. the pretrained models of our FF-GAN which obtain the best performance in our paper.
 
 3. Training 
