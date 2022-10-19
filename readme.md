@@ -22,7 +22,7 @@ NVIDIA GPU + CUDA cuDNN
 
 2. **Pretrained Models**
    1. [Bi-LSTM pretrained by Attn-GAN](https://github.com/taoxugit/AttnGAN)
-   2. the [pretrained models](https://pan.baidu.com/s/18MfAg6yy621O7AZNjld4sg?pwd=9jpb) of our FF-GAN which obtain the best performance in our paper,CODE:9jpb.
+   2. the [models file](https://pan.baidu.com/s/18MfAg6yy621O7AZNjld4sg?pwd=9jpb) of our FF-GAN which obtain the best performance in our paper,CODE:9jpb.
 
 3. Training 
    * Modify the parameters in parse to your local path
