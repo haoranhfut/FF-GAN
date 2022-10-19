@@ -51,6 +51,7 @@ python /FF_GAN/code/main.py --cfg cfg/eval_coco.yml --gpu 0
 
 ```
 ### Example results
+![Figure_resolution]([FF-GAN/code/fig/bird_resolution_box_final.png](https://github.com/haoranhfut/FF-GAN/blob/main/code/fig/bird_resolution_box_final.png?raw=true))
 
-
-
+![Figure_bird](https://github.com/haoranhfut/FF-GAN/blob/main/code/fig/figure_bird_coco.png?raw=true)
+![Figure_coco](https://github.com/haoranhfut/FF-GAN/blob/main/code/fig/figure_coco_box.png?raw=true)
