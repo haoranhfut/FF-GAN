@@ -58,3 +58,7 @@ python /FF_GAN/code/main.py --cfg cfg/eval_coco.yml --gpu 0
 ![Figure_bird](https://github.com/haoranhfut/FF-GAN/blob/main/code/fig/figure_bird_coco.png?raw=true)
 * Qualitative results on CUB-200
 ![Figure_coco](https://github.com/haoranhfut/FF-GAN/blob/main/code/fig/figure_coco_box.png?raw=true)
+
+
+### Acknowlegement
+The code and pre-trained models of Bi-LSTM network borrows heavily from [Attn-GAN](https://github.com/taoxugit/AttnGAN), we apprecite the authors for sharing their codes and pre-trained models.
