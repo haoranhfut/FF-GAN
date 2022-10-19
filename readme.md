@@ -21,9 +21,8 @@ NVIDIA GPU + CUDA cuDNN
    4. extract the source data to your path.
 
 2. **Pretrained Models**
-   1. [Bi-LSTM pretrained by Attn-GAN for bird](https://drive.google.com/open?id=1GNUKjVeyWYBJ8hEU-yrfYQpDOkxEyP3V).
-   2. [Bi-LSTM pretrained by Attn-GAN for coco](https://drive.google.com/open?id=1zIrXCE9F6yfbEJIbNP5-YrEe2pZcPSGJ)
-   3. the [pretrained models](https://pan.baidu.com/s/18MfAg6yy621O7AZNjld4sg?pwd=9jpb) of our FF-GAN which obtain the best performance in our paper,CODE:9jpb.
+   1. [Bi-LSTM pretrained by Attn-GAN](https://github.com/taoxugit/AttnGAN)
+   2. the [pretrained models](https://pan.baidu.com/s/18MfAg6yy621O7AZNjld4sg?pwd=9jpb) of our FF-GAN which obtain the best performance in our paper,CODE:9jpb.
 
 3. Training 
    * Modify the parameters in parse to your local path
