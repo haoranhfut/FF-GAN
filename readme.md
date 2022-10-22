@@ -55,8 +55,10 @@ python /FF_GAN/code/main.py --cfg cfg/eval_coco.yml --gpu 0
 ![Figure_resolution](https://github.com/haoranhfut/FF-GAN/blob/main/code/fig/bird_resolution_box_final.png?raw=true)
 * Qualitative results on CUB-200
 ![Figure_bird](https://github.com/haoranhfut/FF-GAN/blob/main/code/fig/figure_bird_coco.png?raw=true)
-* Qualitative results on CUB-200
+* Qualitative results on COCO
 ![Figure_coco](https://github.com/haoranhfut/FF-GAN/blob/main/code/fig/figure_coco_box.png?raw=true)
+* Attention visualization on CUB-200 test sets
+![Atten](https://github.com/haoranhfut/FF-GAN/blob/main/code/fig/attn_2.png?raw=true)
 
 
 ### Acknowlegement
