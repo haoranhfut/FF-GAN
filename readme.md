@@ -15,7 +15,7 @@ NVIDIA GPU + CUDA cuDNN
 ```
 
 1. **Data** 
-   1. Download metadata for [birds](https://drive.google.com/open?id=1O_LtUP9sch09QH3s_EBAgLEctBQ5JBSJ) [coco](https://drive.google.com/open?id=1rSnbIGNDGZeHlsUlLdahj0RJ9oo6lgH9)and save them to your path{ from [Attn-GAN](https://github.com/taoxugit/AttnGAN)}.
+   1. Download metadata for [birds](https://drive.google.com/open?id=1O_LtUP9sch09QH3s_EBAgLEctBQ5JBSJ) [coco](https://drive.google.com/open?id=1rSnbIGNDGZeHlsUlLdahj0RJ9oo6lgH9) and save them to your path{ from [Attn-GAN](https://github.com/taoxugit/AttnGAN)}.
    2. Download the [birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) image data.
    3. Download [coco](http://cocodataset.org/#download) dataset.
    4. extract the source data to your path.
