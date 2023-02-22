@@ -57,7 +57,7 @@ python /FF_GAN/code/main.py --cfg cfg/eval_coco.yml --gpu 0
 * Qualitative results on COCO
 ![Figure_coco](https://github.com/haoranhfut/FF-GAN/blob/main/code/fig/figure_coco_box.png?raw=true)
 * Attention visualization on CUB-200 test sets
-![Atten](https://github.com/haoranhfut/FF-GAN/blob/maincode/fig/attention_map.png)
+![Atten](https://github.com/haoranhfut/FF-GAN/blob/main/code/fig/attention_map.png?raw=true)
 
 
 ### Acknowlegement
