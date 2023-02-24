@@ -15,13 +15,13 @@ NVIDIA GPU + CUDA cuDNN
 ```
 
 1. **Data** 
-   1. Download metadata for [birds](https://drive.google.com/open?id=1O_LtUP9sch09QH3s_EBAgLEctBQ5JBSJ) [coco](https://drive.google.com/open?id=1rSnbIGNDGZeHlsUlLdahj0RJ9oo6lgH9) and save them to your path{we borrow these from [Attn-GAN](https://github.com/taoxugit/AttnGAN), thanks for there contributions}.
+   1. Download metadata for [birds](https://drive.google.com/open?id=1O_LtUP9sch09QH3s_EBAgLEctBQ5JBSJ) [coco](https://drive.google.com/open?id=1rSnbIGNDGZeHlsUlLdahj0RJ9oo6lgH9) and save them to your path.
    2. Download the [birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) image data.
    3. Download [coco](http://cocodataset.org/#download) dataset.
    4. extract the source data to your path.
 
 2. **Pretrained Models**
-   1. the [models file](https://pan.baidu.com/s/1-V2Mp0wmX_tQxl6mOtnKpw) of our FF-GAN which obtain the best performance in our paper,CODE:zrE2.
+   1. the [models file](https://pan.baidu.com/s/1-V2Mp0wmX_tQxl6mOtnKpw) of our FF-GAN which obtain the best performance, this model obtain FID=14.56 on CUB-200 which is better than the one in our paper,CODE:zrE2.
 
 3. Training 
    * Modify the parameters in parse to your local path
