@@ -61,4 +61,4 @@ python /FF_GAN/code/main.py --cfg cfg/eval_coco.yml --gpu 0
 
 
 ### Acknowlegement
-The pre-process data and code borrows heavily from [Attn-GAN](https://github.com/taoxugit/AttnGAN), we apprecite the authors for sharing their codes and data.
+The pre-process data and code borrows heavily from [Attn-GAN](https://github.com/taoxugit/AttnGAN) and [DM-GAN](https://github.com/MinfengZhu/DM-GAN), we apprecite the authors for sharing their codes and data.
