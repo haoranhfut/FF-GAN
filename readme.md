@@ -61,4 +61,4 @@ python /FF_GAN/code/main.py --cfg cfg/eval_coco.yml --gpu 0
 
 
 ### Acknowlegement
-The pre-trained models of Bi-LSTM network borrows heavily from [Attn-GAN](https://github.com/taoxugit/AttnGAN), we apprecite the authors for sharing their codes and pre-trained models.
+The pre-process data and code borrows heavily from [Attn-GAN](https://github.com/taoxugit/AttnGAN), we apprecite the authors for sharing their codes and data.
