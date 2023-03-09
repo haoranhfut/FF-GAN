@@ -21,7 +21,7 @@ NVIDIA GPU + CUDA cuDNN
    4. extract the source data to your path.
 
 2. **Pretrained Models**
-   1. the [models file](https://pan.baidu.com/s/1-V2Mp0wmX_tQxl6mOtnKpw) of our FF-GAN which obtain the best performance, this model obtain FID=14.56 on CUB-200 which is better than the result in our paper,CODE:zrE2.
+   1. the [models file](https://pan.baidu.com/s/1-V2Mp0wmX_tQxl6mOtnKpw) of our FF-GAN which obtain the best performance. CODE:zrE2.
    2. later experiments found that good results often occur between 550 and 650 epoches, we suggest you choose the model in this scope.
 3. Training 
    * Modify the parameters in parse to your local path
